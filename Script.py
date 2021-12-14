@@ -23,7 +23,7 @@ Owner - Vijayraj 😁"""
 - <a href=https://t.me/Vijay_patil_9>ViJaYrAj🤭</a>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
-- Filter is the feature were users can set automated replies for a particular keyword and @TheCatWomanBot will respond whenever a keyword is found the message
+- Filter is the feature were users can set automated replies for a particular keyword and @MovieableFilter_Bot will respond whenever a keyword is found the message
 
 <b>NOTE:</b>
 1. TheCatWomanBot should have admin privillage.
