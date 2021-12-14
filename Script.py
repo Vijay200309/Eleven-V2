@@ -26,7 +26,7 @@ Owner - Vijayraj 😁"""
 - Filter is the feature were users can set automated replies for a particular keyword and @MovieableFilter_Bot will respond whenever a keyword is found the message
 
 <b>NOTE:</b>
-1. TheCatWomanBot should have admin privillage.
+1. This Bot should have admin privillage.
 2. only admins can add filters in a chat.
 3. alert buttons have a limit of 64 characters.
 
@@ -45,7 +45,7 @@ Owner - Vijayraj 😁"""
 3. Buttons should be properly parsed as markdown format
 
 <b>URL buttons:</b>
-<code>[Button Text](buttonurl:https://t.me/TheCatWomanBot)</code>
+<code>[Button Text](buttonurl:https://t.me/MovieableFilter_bot)</code>
 
 <b>Alert buttons:</b>
 <code>[Button Text](buttonalert:This is an alert message)</code>"""
