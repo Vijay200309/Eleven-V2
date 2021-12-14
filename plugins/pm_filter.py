@@ -73,7 +73,7 @@ async def next_page(bot, query):
 
     ident, req, key, offset = query.data.split("_")
     if int(req) not in [query.from_user.id, 0]:
-        return await query.answer("এটা তোমার জন্য নয় সোনা👀", show_alert=True)
+        return await query.answer("This is Not For You 👀", show_alert=True)
     try:
         offset = int(offset)
     except:
@@ -415,8 +415,8 @@ async def cb_handler(client: Client, query: CallbackQuery):
         buttons = [[
             InlineKeyboardButton('♻️ Add Me To Your Groups ♻️', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
-            InlineKeyboardButton('🎯 Movie group 🎯', url='https://t.me/MoviZenXFlix'),
-            InlineKeyboardButton('⚡ Updates Channel ⚡', url='https://t.me/MoviZenX')
+            InlineKeyboardButton('🎯 Movie group 🎯', url='https://t.me/Movieable_requests'),
+            InlineKeyboardButton('⚡ Updates Channel ⚡', url='https://t.me/Movieable')
             ],[
             InlineKeyboardButton('ℹ️ Help', callback_data='help'),
             InlineKeyboardButton('😊 About', callback_data='about')
@@ -446,7 +446,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         )
     elif query.data == "about":
         buttons= [[
-            InlineKeyboardButton('⚡ Updates Channel ⚡', url='https://t.me/MoviZenX'),
+            InlineKeyboardButton('⚡ Updates Channel ⚡', url='https://t.me/Movieable'),
             InlineKeyboardButton('♥️ Info', callback_data='source')
             ],[
             InlineKeyboardButton('🏠 Home', callback_data='start'),
@@ -622,7 +622,7 @@ async def auto_filter(client, msg, spoll=False):
         )
     imdb = await get_poster(search) if IMDB else None
     if imdb:
-        cap = f"<b>Result: {search}</b>\n‌‌🏷 Title: <a href={imdb['url']}>{imdb.get('title')}</a>\n🎭 Genres: {imdb.get('genres')}\n📆 Year: <a href={imdb['url']}/releaseinfo>{imdb.get('year')}</a>\n🌟 Rating: <a href={imdb['url']}/ratings>{imdb.get('rating')}</a> / 10\n<b>©️ Powered by @MoviZenX</b>"
+        cap = f"<b>Result: {search}</b>\n‌‌🏷 Title: <a href={imdb['url']}>{imdb.get('title')}</a>\n🎭 Genres: {imdb.get('genres')}\n📆 Year: <a href={imdb['url']}/releaseinfo>{imdb.get('year')}</a>\n🌟 Rating: <a href={imdb['url']}/ratings>{imdb.get('rating')}</a> / 10\n<b>©️ Powered by @MovieAble</b>"
     else:
         cap = "Here is what i found for your query {search}"
     if imdb and imdb.get('poster'):
