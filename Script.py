@@ -7,7 +7,7 @@ Owner - Vijayraj 😁"""
     HELP_TXT = """Hey {}
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝚃𝙷𝙴 𝙷𝙴𝙻𝙿 𝙵𝙾𝚁 𝙼𝚈 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
     ABOUT_TXT = """⭐ Name: @MovieableFilter_Bot
-⭐ Creators: <a href=https://t.me/MoviZenX>Team MoviZenX</a>
+⭐ Creators: <a href=https://t.me/Movieable>Team MovieAble</a>
 ⭐ Library: Pyrogram
 ⭐ Language: <code>Python 3.2</code>
 ⭐ Build Status: V2.0.1 [Beta]
