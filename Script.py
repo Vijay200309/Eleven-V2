@@ -15,12 +15,12 @@ Owner - Vijayraj 😁"""
     SOURCE_TXT = """<b>NOTE:</b>
 -○  ɪᴛ's ɴᴏᴛᴇ ᴄᴏᴍᴘʟɪᴄᴀᴛᴇᴅ...🤓
 
-○  ᴄʀᴇᴀᴛᴇ ᴀ ɢʀᴏᴜᴘ ᴀɴᴅ ᴍᴀᴋᴇ @TheCatWomanBot ᴀᴅᴍɪɴ ᴛʜᴇʀᴇ, ᴀɴᴅ sᴛᴀʀᴛ ᴀsᴋɪɴɢ ᴍᴏᴠɪᴇs ᴏɴ ᴛʜᴀᴛ ɢʀᴏᴜᴘ 
+○  ᴄʀᴇᴀᴛᴇ ᴀ ɢʀᴏᴜᴘ ᴀɴᴅ ᴍᴀᴋᴇ @MovieAbleFilter_bot ᴀᴅᴍɪɴ ᴛʜᴇʀᴇ, ᴀɴᴅ sᴛᴀʀᴛ ᴀsᴋɪɴɢ ᴍᴏᴠɪᴇs ᴏɴ ᴛʜᴀᴛ ɢʀᴏᴜᴘ 
 
 ᴇɴᴊᴏʏ ᴜɴʟɪᴍɪᴛᴇᴅ ᴍᴏᴠɪᴇs 🔥❤️  
 
 <b>DEVS:</b>
-- <a href=https://t.me/AnnihilusOP>Saikat🤭</a>"""
+- <a href=https://t.me/Vijay_patil_9>ViJaYrAj🤭</a>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
 - Filter is the feature were users can set automated replies for a particular keyword and @TheCatWomanBot will respond whenever a keyword is found the message
