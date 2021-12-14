@@ -1,12 +1,12 @@
 class script(object):
     START_TXT = """Hey {},
-I'm <a href=https://t.me.MoviZenX>MoviZenX Search Bot</a> or you can call me as <a href=https://t.me/TheCatWomanBot>Catwoman Bot</a>
+I'm <a href=https://t.me.MovieAble>MovieAblE Search Bot</a> or you can call me as <a href=https://t.me/MovieableFilter_bot>Filter Bot</a>
 
 Here you can search files in Inline mode as well as PM, Use the below buttons to search files or send me the name of file to search.
-Owner - @AnnihilusOP 😁"""
+Owner - Vijayraj 😁"""
     HELP_TXT = """Hey {}
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝚃𝙷𝙴 𝙷𝙴𝙻𝙿 𝙵𝙾𝚁 𝙼𝚈 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
-    ABOUT_TXT = """⭐ Name: @TheCatWomanBot
+    ABOUT_TXT = """⭐ Name: @MovieableFilter_Bot
 ⭐ Creators: <a href=https://t.me/MoviZenX>Team MoviZenX</a>
 ⭐ Library: Pyrogram
 ⭐ Language: <code>Python 3.2</code>
