@@ -11,7 +11,7 @@ Owner - Vijayraj 😁"""
 ⭐ Library: Pyrogram
 ⭐ Language: <code>Python 3.2</code>
 ⭐ Build Status: V2.0.1 [Beta]
-⭐ Daddy's Name: <a href=https://t.me/AnnihilusOP>Saikat🤭</a>"""
+⭐ Daddy's Name: <a href=https://t.me/Vijay_patil_9>ViJaYrAj🤭</a>"""
     SOURCE_TXT = """<b>NOTE:</b>
 -○  ɪᴛ's ɴᴏᴛᴇ ᴄᴏᴍᴘʟɪᴄᴀᴛᴇᴅ...🤓
 
